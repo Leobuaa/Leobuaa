@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leo Peng</h1>
-<h3 align="center">A passionate software developer from China, Shenzhen</h3>
+<h1>Hi 👋, I'm Leo Peng</h1>
+<h3>A passionate software developer from China, Shenzhen</h3>
 
 <p align="left"> <a href="https://twitter.com/bayernleo" target="blank"><img src="https://img.shields.io/twitter/follow/bayernleo?logo=twitter&style=for-the-badge" alt="bayernleo" /></a> </p>
 
