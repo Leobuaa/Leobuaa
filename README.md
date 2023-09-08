@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python and AIGC**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **flutter**, I am crazy about flutter and AI
 
 - 📫 How to reach me **leobuaabayern@gmail.com**
 
