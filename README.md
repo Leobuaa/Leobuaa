@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [leetcode_problems](https://github.com/Learn-Everything-Leo/leetcode_problems)
 
-- 🌱 I’m currently learning **python and AIGC**
+- 🌱 I’m currently learning **Python and AI Full-Stack Development**
 
-- 💬 Ask me about **flutter**, I am crazy about flutter and AI
+- 💬 Ask me about **Flutter**, I am crazy about Flutter and AI, I love open source.
 
 - 📫 How to reach me **leobuaabayern@gmail.com**
 
