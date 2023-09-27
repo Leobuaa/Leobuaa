@@ -22,11 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=leobuaa&show_icons=true&locale=en" alt="leobuaa" /></p>
-
-<br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leobuaa&" alt="leobuaa" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Leobuaa&&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Leobuaa&hide_border=false)<br/>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/leopeng"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leopeng" /></a></p><br><br>
